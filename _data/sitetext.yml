@@ -68,7 +68,7 @@ en: &DEFAULT_EN
     people:
       - name: "Myllena Prado"
         role: "PhD Student"
-        image: assets/img/imgmylle.jpeg
+        image: assets/img/myllena.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
